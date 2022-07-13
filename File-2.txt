@@ -1,13 +1,1 @@
-
-this is conflict data
-PS E:\StudyGit> git add File-3.txt
-PS E:\StudyGit> git add File-1.txt
-PS E:\StudyGit> git status        
-no changes added to commit (use "git add" and/or "git commit -a")
-PS E:\StudyGit> git add File-3.txt
-PS E:\StudyGit> git add File-1.txt
-PS E:\StudyGit> git status        
-no changes added to commit (use "git add" and/or "git commit -a")
-PS E:\StudyGit> git add File-3.txt
-PS E:\StudyGit> git add File-1.txt
-PS E:\StudyGit> git status        
+Hello form remote repo
