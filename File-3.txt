@@ -1,32 +1,8 @@
-PS E:\StudyGit> git branch
-* br2
-  master
-PS E:\StudyGit> git checkout master
-Switched to branch 'master'
-PS E:\StudyGit> git log --graph
-* commit d8172db77f978ed4877452975ad9cf711208d4c0 (HEAD -> master)
-| Author: Anticisco Freeman <djanticisco@gmail.com>
-| Date:   Thu Jul 7 20:18:27 2022 +0200
-|
-|     Add new File (File-2)
-|
-* commit e8b978366936356195e5fae9b74b7544bb29231b
-| Author: Anticisco Freeman <djanticisco@gmail.com>
-| Date:   Thu Jul 7 20:12:35 2022 +0200
-|
-|     Change file: add new message!
-|
-* commit 5b9319de936f44eae0978c545a44b372f34cd146
-  Author: Anticisco Freeman <djanticisco@gmail.com>
-  Date:   Thu Jul 7 19:55:27 2022 +0200
-
-      Add new file. Name File-1 (txt)
-PS E:\StudyGit> git branch forHuman2
-PS E:\StudyGit> git branch
-PS E:\StudyGit> git branch
-  br2
-  forHuman2
-* master
-PS E:\StudyGit> git checkout forHuman2
-Switched to branch 'forHuman2'
-PS E:\StudyGit>
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 6 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 343 bytes | 343.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:AleksandrGladkovIT/TestRepo13072022.git
