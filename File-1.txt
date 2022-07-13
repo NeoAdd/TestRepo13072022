@@ -2,6 +2,7 @@ Hello!
 qwerty
 zxcvb zxcvb
 Зачем это нужно?
+Для того, чтобы создать конфликт!
 
 * commit d8172db77f978ed4877452975ad9cf711208d4c0 (HEAD -> master)
 | Author: Anticisco Freeman <djanticisco@gmail.com>
