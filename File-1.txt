@@ -1,7 +1,7 @@
 Hello!
 qwerty
 zxcvb zxcvb
-Test diff
+Зачем это нужно?
 
 * commit d8172db77f978ed4877452975ad9cf711208d4c0 (HEAD -> master)
 | Author: Anticisco Freeman <djanticisco@gmail.com>
