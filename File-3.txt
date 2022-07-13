@@ -1,0 +1,32 @@
+PS E:\StudyGit> git branch
+* br2
+  master
+PS E:\StudyGit> git checkout master
+Switched to branch 'master'
+PS E:\StudyGit> git log --graph
+* commit d8172db77f978ed4877452975ad9cf711208d4c0 (HEAD -> master)
+| Author: Anticisco Freeman <djanticisco@gmail.com>
+| Date:   Thu Jul 7 20:18:27 2022 +0200
+|
+|     Add new File (File-2)
+|
+* commit e8b978366936356195e5fae9b74b7544bb29231b
+| Author: Anticisco Freeman <djanticisco@gmail.com>
+| Date:   Thu Jul 7 20:12:35 2022 +0200
+|
+|     Change file: add new message!
+|
+* commit 5b9319de936f44eae0978c545a44b372f34cd146
+  Author: Anticisco Freeman <djanticisco@gmail.com>
+  Date:   Thu Jul 7 19:55:27 2022 +0200
+
+      Add new file. Name File-1 (txt)
+PS E:\StudyGit> git branch forHuman2
+PS E:\StudyGit> git branch
+PS E:\StudyGit> git branch
+  br2
+  forHuman2
+* master
+PS E:\StudyGit> git checkout forHuman2
+Switched to branch 'forHuman2'
+PS E:\StudyGit>
