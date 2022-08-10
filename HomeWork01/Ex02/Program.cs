@@ -1,13 +1,15 @@
 ﻿// Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
-int a = 30;
-int b = 31;
-int c = 29;
-int summ = 36; //a + b + c; 
+int a = 44;
+int b = 5;
+int c = 78;
+int summ = a + b + c; 
 
-while (summ > a || summ > b || summ > c )
+while (summ > a && summ > b && summ > c )
 {
-summ--;
+                      
+summ--; 
+
 }
 
 Console.WriteLine( summ );
