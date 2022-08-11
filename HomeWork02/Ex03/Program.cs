@@ -5,12 +5,15 @@ int a;
 int day6 = 6;
 int day7 = 7;
 
-Console.WriteLine("Введите число: ");
+Console.WriteLine(" Введите число: ");
 a = Console.Read ();
 
-if ( a > day6 && a == day7) 
+if ( a == day6 && a == day7 ) 
 {
                       Console.WriteLine("ответ Да ");
 }
-            
-Console.WriteLine( "ответ Нет ");
+else 
+
+{
+                      Console.WriteLine( "ответ Нет ");    
+}
