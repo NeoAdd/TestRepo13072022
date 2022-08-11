@@ -3,7 +3,11 @@
 int a;
 Console.WriteLine("Введите число: ");
 a= Console.Read ();
-if (a % 2 ==1) 
+if (a % 2 == 1) 
 {
                       Console.WriteLine("число N нечетное");
+}
+else
+{
+                      Console.WriteLine("число N четное");
 }
