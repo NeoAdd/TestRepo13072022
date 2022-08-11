@@ -15,6 +15,5 @@ while (bank < n)
                      // bank = bank + 1;
 }
 //while (bank > N);
-
                       //Console.WriteLine( i );
 Console.WriteLine( bank );
