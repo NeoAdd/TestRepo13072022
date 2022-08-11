@@ -7,7 +7,7 @@ int bank = 1;
 Console.WriteLine("Введите число быстрее: ");
 n = Convert.ToInt32(Console.ReadLine());
 
-//a = Console.Read ();
+// n = Console.Read ();
 //do
 while (bank < n)
 {
