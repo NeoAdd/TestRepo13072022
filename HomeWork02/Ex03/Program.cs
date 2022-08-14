@@ -8,7 +8,7 @@ int day7 = 7;
 Console.WriteLine(" Введите число: ");
 a = Console.Read ();
 
-if ( a == day6 && a == day7 ) 
+if ( a == day6 && a == day7 )  // ошибка, вылетает с цикла
 {
                       Console.WriteLine("ответ Да ");
 }
