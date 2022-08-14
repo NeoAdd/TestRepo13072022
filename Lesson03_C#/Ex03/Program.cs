@@ -23,4 +23,8 @@ string Replace(string text, char oldValue, char newValue)
                   return result;    
 }
 string newText = Replace(text, ' ', '|');
+
+Console.WriteLine (newText);
+Console.WriteLine (); //пустая строчка
+newText = Replace(text, 'к', 'К');
 Console.WriteLine (newText);
