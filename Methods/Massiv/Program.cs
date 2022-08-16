@@ -56,3 +56,24 @@
 //}
 
 
+                //Заполнить массив из пользовательского ввода
+
+class Programm
+{
+    static void Main(string[] args)
+    {
+
+        Console.Write("Введите количество элементов массива :\t");
+
+        int elementsCount = int.Parse(Console.ReadLine());
+
+        int[]myArray = new int[elemetsCount];
+
+         Console.WriteLine("Вывод массива: ");
+
+         for (int i = 0; i < myArray.Length; i++)
+         {
+             Console.WriteLine(myArray[i]);
+         }
+    }
+}
