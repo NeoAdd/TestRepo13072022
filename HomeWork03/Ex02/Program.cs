@@ -9,12 +9,25 @@
 
 Console.Write("Находим расстояние между двумя точками: ");
 //int i = 1;
-double n = 0;
-double result = 0;
-n = Convert.ToInt32(Console.ReadLine());
+double Ax = 3;
+double Ay = 6;
+double Az = 8;
 
+double Bx = 2;
+double By = 1;
+double Bz = -7;
+double result ;
+double result1 ;
+double result2 ;
+double result3 ;
 
+// находим степень
+result1 = Math.Pow((Bx - Ax), 2);
+result2 = Math.Pow((By - Ay), 2);
+result3 = Math.Pow((Bz - Az), 2);
 
-//result = Math.Sqrt(n);  // находим корень
-result = Math.Pow(n, n);  // находим степень
+// находим корень
+result = Math.Sqrt(result1 + result2 + result3);  
+
 Console.WriteLine(result);
+
