@@ -10,7 +10,7 @@ n = Convert.ToInt32(Console.ReadLine());
 while (i < n+1)
 {
       result = i * i * i;
-      //Math.Pow(i,i);    // не получается
+      //Math.Pow(i,i);    // не получается из за размерности
       i ++;
       Console.WriteLine(result);
 }
