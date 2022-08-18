@@ -87,3 +87,17 @@ int numb;
     Console.WriteLine("нет, не полидром");
     else
     Console.WriteLine("да, полидром");
+
+
+         // находим квадратный корень и возводим в степень
+    Console.Write("Находим расстояние между двумя точками: ");
+//int i = 1;
+double n = 0;
+double result = 0;
+n = Convert.ToInt32(Console.ReadLine());
+
+
+
+//result = Math.Sqrt(n);  // находим корень
+result = Math.Pow(n, n);  // находим степень
+Console.WriteLine(result);

@@ -1,2 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задача 21
+//Напишите метод, который принимает на вход 
+//координаты двух точек и находит расстояние 
+//между ними в 3D пространстве.
+//     A (3,6,8); B (2,1,-7), -> 15.84
+//     A (7,-5, 0); B (1,-1,9) -> 11.53
+
+// √((x2-x1)^2 )+(y2-y1)^2+(z2-z1)^2
+
+Console.Write("Находим расстояние между двумя точками: ");
+//int i = 1;
+double n = 0;
+double result = 0;
+n = Convert.ToInt32(Console.ReadLine());
+
+
+
+//result = Math.Sqrt(n);  // находим корень
+result = Math.Pow(n, n);  // находим степень
+Console.WriteLine(result);
