@@ -12,6 +12,7 @@ while (value != 0) ;
 {
                       numbers[size - 1] = value % 10;
                       value /= 10;
+                      //value = value / 10;
                       size--;
 }
 Console.WriteLine($"value: {string.Join(' ', numbers)}");
