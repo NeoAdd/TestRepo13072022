@@ -1,7 +1,12 @@
-﻿int summ = 0;
-int[] numbers = { 1, 2, 3, 4, 5 };
-for (int i = 0; i < numbers.Length; i++)
-{
-                      int summ = numbers[i] + numbers[i];
-                      Console.WriteLine(numbers[i]);
-}
+﻿Console.Write("Введите количество элементов массива ");
+
+int elementsCount = int.Parse(Console.ReadLine());
+int[]myArray = new int[elementsCount];
+
+         //Console.WriteLine("Вывод массива: ");
+
+         for (int i = 0; i < myArray.Length; i++)
+         {
+            i = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(myArray[i]);
+         }
