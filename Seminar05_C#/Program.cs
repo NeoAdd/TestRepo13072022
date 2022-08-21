@@ -8,7 +8,7 @@ value = Math.Abs(value);
 int size = value.ToString().Length;
 int[] numbers = new int[size];
 
-while (value != 0) ;
+while (value != 0)
 {
                       numbers[size - 1] = value % 10;
                       value /= 10;

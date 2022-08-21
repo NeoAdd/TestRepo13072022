@@ -1,10 +1,7 @@
-﻿//int a;
-
-//Console.WriteLine(" Введите число: ");
-//a = Convert.ToInt32(Console.ReadLine());
-
-//int b = 6;
-//if(b != a)
-//  Console.WriteLine("не полидром");
-//else
-//  Console.WriteLine("да полидром");
+﻿int summ = 0;
+int[] numbers = { 1, 2, 3, 4, 5 };
+for (int i = 0; i < numbers.Length; i++)
+{
+                      int summ = numbers[i] + numbers[i];
+                      Console.WriteLine(numbers[i]);
+}
