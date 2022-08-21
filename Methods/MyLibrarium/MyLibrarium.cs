@@ -1,4 +1,28 @@
-﻿//Вводим число и разбиваем на массив а потом суммируем
+﻿    //Создаем рандомный массив и выводим в одну строку
+    
+    var rnd = new Random();
+            var set = new HashSet<int>();
+            var arr = new int[8];
+            for (int i = 0; i < arr.Length; i++)
+            {
+                int rand;
+                do
+                {
+                    rand = rnd.Next(100);
+                } while (set.Contains(rand));
+                set.Add(rand);
+                arr[i] = rand;
+            }
+ 
+            foreach (var i in arr)
+            {
+                               Console.Write("{0} ", i);
+            }
+
+
+
+
+//Вводим число и разбиваем на массив а потом суммируем
 
 //using System.Text;
 //int value = Convert.ToInt32(Console.ReadLine());
