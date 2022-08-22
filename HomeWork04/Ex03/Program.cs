@@ -22,4 +22,3 @@ foreach (var i in arr)
 {
                       Console.Write("{0} ", i);
 }
-  Console.WriteLine( "Массив");
