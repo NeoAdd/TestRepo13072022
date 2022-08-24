@@ -1,0 +1,15 @@
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\bin\Debug\net6.0\Ex04.exe
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\bin\Debug\net6.0\Ex04.deps.json
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\bin\Debug\net6.0\Ex04.runtimeconfig.json
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\bin\Debug\net6.0\Ex04.dll
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\bin\Debug\net6.0\Ex04.pdb
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\obj\Debug\net6.0\Ex04.csproj.AssemblyReference.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\obj\Debug\net6.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\obj\Debug\net6.0\Ex04.AssemblyInfoInputs.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\obj\Debug\net6.0\Ex04.AssemblyInfo.cs
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\obj\Debug\net6.0\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\obj\Debug\net6.0\Ex04.dll
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\obj\Debug\net6.0\refint\Ex04.dll
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\obj\Debug\net6.0\Ex04.pdb
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\obj\Debug\net6.0\Ex04.genruntimeconfig.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Lesson04_C#\Ex04\obj\Debug\net6.0\ref\Ex04.dll
