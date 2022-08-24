@@ -11,9 +11,9 @@ table[1, 2] = "слово"; //индексы меняются от 0
 
 for (int rows = 0; rows > 2; rows++)  // rows Счетчик будет называться 
 {
-     for (int columns = 0; columns<5; columns++) //внутр цикл для столб
-{
-           Console.WriteLine($"{table[rows, columns]}");
-           // обращаемся к эементу масс через имя table и строки, столб
-}
+                      for (int columns = 0; columns < 5; columns++) //внутр цикл для столб
+                      {
+                                            Console.WriteLine($"{table[rows, columns]}");
+                                            // обращаемся к эементу масс через имя table и строки, столб
+                      }
 }

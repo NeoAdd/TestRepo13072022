@@ -1,0 +1,5 @@
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Seminar06_C#\Ex02\obj\Debug\net6.0\Ex02.csproj.AssemblyReference.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Seminar06_C#\Ex02\obj\Debug\net6.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Seminar06_C#\Ex02\obj\Debug\net6.0\Ex02.AssemblyInfoInputs.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Seminar06_C#\Ex02\obj\Debug\net6.0\Ex02.AssemblyInfo.cs
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Seminar06_C#\Ex02\obj\Debug\net6.0\Ex02.csproj.CoreCompileInputs.cache
