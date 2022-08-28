@@ -1,0 +1,15 @@
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\bin\Debug\net6.0\Tetris.exe
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\bin\Debug\net6.0\Tetris.deps.json
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\bin\Debug\net6.0\Tetris.runtimeconfig.json
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\bin\Debug\net6.0\Tetris.dll
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\bin\Debug\net6.0\Tetris.pdb
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\obj\Debug\net6.0\Tetris.csproj.AssemblyReference.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\obj\Debug\net6.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfoInputs.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfo.cs
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\obj\Debug\net6.0\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\obj\Debug\net6.0\Tetris.dll
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\obj\Debug\net6.0\refint\Tetris.dll
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\obj\Debug\net6.0\Tetris.pdb
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\obj\Debug\net6.0\Tetris.genruntimeconfig.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\Methods\Tetris\obj\Debug\net6.0\ref\Tetris.dll
