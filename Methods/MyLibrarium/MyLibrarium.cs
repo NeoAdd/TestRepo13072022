@@ -279,3 +279,16 @@ n = Convert.ToInt32(Console.ReadLine());
 //result = Math.Sqrt(n);  // находим корень
 result = Math.Pow(n, n);  // находим степень
 Console.WriteLine(result);
+
+
+
+// Словарь
+
+string s = "ergrgaergwergerg";
+var diect = s.GroupBy(e=>e);
+foreach (var kvp in diect)
+{
+    Console.WriteLine($"{kvp.Key} {kvp.Count()}");
+}
+
+
