@@ -1,37 +1,40 @@
-﻿
+﻿//Задача 41: Пользователь вводит с клавиатуры M чисел. 
+//Посчитайте, сколько чисел больше 0 ввёл пользователь.
+
+/* 0, 7, 8, -2, -2 -> 2
+
+1, -7, 567, 89, 223-> 3 */
 
 
-
-
-
-//Задача 34: Задайте массив заполненный случайными 
-//положительными трёхзначными числами. 
-//Напишите программу, которая покажет количество чётных чисел в массиве.
-
-//[345, 897, 568, 234] -> 2
-
-var rnd = new Random();
-var set = new HashSet<int>();
-var arr = new int[4];
-int count = 0;
-for (int i = 0; i < arr.Length; i++)
+class Programm
 {
-                      int rand;
-                      do
-                      {
-                                            rand = rnd.Next(100, 999);
-                      } while (set.Contains(rand));
-                      set.Add(rand);
-                      arr[i] = rand;
-                      
-                      if (rand % 2 == 0)
-                      count++;
-}
+    static void Main(string[] args)
+    {
 
-foreach (var i in arr)
-{
+        Console.Write("Сколько будет элементов массива?:\t ");
 
-                      Console.Write("{0}  ", i);
+        int elementsCount = int.Parse(Console.ReadLine());// читаем данные с консоли
+
+        int[]myArray = new int[elementsCount];
+        int count = 0;
+
+        for (int i = 0; i < myArray.Length; i++)
+        {
+            Console.Write($"\nВведите элемент массива под индексом {i}    :");
+            myArray[i] = int.Parse(Console.ReadLine());
+        }
+
+        Console.WriteLine("\nТвой массив:");
+
+        for (int i = 0; i < myArray.Length; i++)
+        {
+            Console.WriteLine(myArray[i]);
+            if (myArray [i] > 0)// найдем положительное число
+            count++;                         
+        }
+
+
+Console.WriteLine("\nВы ввели положительных чисел:");        
+Console.WriteLine(count);
+    }
 }
-  
-Console.WriteLine($"Всего четных чисел в массиве ->: {(count)}");

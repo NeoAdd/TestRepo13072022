@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork06\\Ex41\\Ex41.csproj": {}
+    "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork06\\Ex43\\Ex43.csproj": {}
   },
   "projects": {
-    "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork06\\Ex41\\Ex41.csproj": {
+    "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork06\\Ex43\\Ex43.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork06\\Ex41\\Ex41.csproj",
-        "projectName": "Ex41",
-        "projectPath": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork06\\Ex41\\Ex41.csproj",
+        "projectUniqueName": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork06\\Ex43\\Ex43.csproj",
+        "projectName": "Ex43",
+        "projectPath": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork06\\Ex43\\Ex43.csproj",
         "packagesPath": "C:\\Users\\олег\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork06\\Ex41\\obj\\",
+        "outputPath": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork06\\Ex43\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\олег\\AppData\\Roaming\\NuGet\\NuGet.Config"

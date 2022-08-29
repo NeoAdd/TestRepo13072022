@@ -63,19 +63,60 @@ class Programm
     static void Main(string[] args)
     {
 
-        Console.Write("Введите количество элементов массива ");
+        Console.Write("Введите количество элементов массива:\t ");
 
-        int elementsCount = int.Parse(Console.ReadLine());
+        int elementsCount = int.Parse(Console.ReadLine());// читаем данные с консоли
 
         int[]myArray = new int[elementsCount];
 
-         Console.WriteLine("Вывод массива: ");
+        for (int i = 0; i < myArray.Length; i++)
+        {
+            Console.Write($"\nВведите элемент массива под индексом {i}    :");
+            myArray[i] = int.Parse(Console.ReadLine());
+        }
+
+         Console.WriteLine("\nВывод массива:");
 
          for (int i = 0; i < myArray.Length; i++)
          {
-            i = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(myArray[i]);
          }
 
+    }
+}
+
+
+
+            // Заполняяем одномерный массаив и находит положительные числа
+class Programm
+{
+    static void Main(string[] args)
+    {
+
+        Console.Write("Сколько будет элементов массива?:\t ");
+
+        int elementsCount = int.Parse(Console.ReadLine());// читаем данные с консоли
+
+        int[]myArray = new int[elementsCount];
+        int count = 0;
+
+        for (int i = 0; i < myArray.Length; i++)
+        {
+            Console.Write($"\nВведите элемент массива под индексом {i}    :");
+            myArray[i] = int.Parse(Console.ReadLine());
+        }
+
+        Console.WriteLine("\nТвой массив:");
+
+        for (int i = 0; i < myArray.Length; i++)
+        {
+            Console.WriteLine(myArray[i]);
+            if (myArray [i] > 0)// найдем положительное число
+            count++;                         
+        }
+
+
+Console.WriteLine("\nВы ввели положительных чисел:");        
+Console.WriteLine(count);
     }
 }
