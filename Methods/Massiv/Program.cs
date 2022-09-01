@@ -120,3 +120,17 @@ Console.WriteLine("\nВы ввели положительных чисел:");
 Console.WriteLine(count);
     }
 }
+
+
+        // СОЗДАЕМ 2мерный Массив случайными числами
+void PrintArray(int[,] matr)
+{
+    for (int i = 0; i < matr.GetLength(0); i++)// Get ссылается на место в массиве
+    {
+       for (int j = 0; j < matr.GetLength(1); j++)
+        {
+            Console.Write($"{matr[i, j]} ");
+        }
+        Console.WriteLine();
+    }
+}

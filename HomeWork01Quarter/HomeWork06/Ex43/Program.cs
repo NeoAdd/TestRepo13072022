@@ -27,7 +27,7 @@ result1 = k1 * result + b1;
 
 Console.WriteLine($" точка пересечения({result} ; {result1})");
 
-/* if (result1 == result)
+/* if (k1 == k2)
 {
     Console.WriteLine("прямые не пересекаются: ");
 }
