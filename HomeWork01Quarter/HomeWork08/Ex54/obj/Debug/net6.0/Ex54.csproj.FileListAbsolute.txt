@@ -1,0 +1,15 @@
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\bin\Debug\net6.0\Ex54.exe
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\bin\Debug\net6.0\Ex54.deps.json
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\bin\Debug\net6.0\Ex54.runtimeconfig.json
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\bin\Debug\net6.0\Ex54.dll
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\bin\Debug\net6.0\Ex54.pdb
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\obj\Debug\net6.0\Ex54.csproj.AssemblyReference.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\obj\Debug\net6.0\Ex54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\obj\Debug\net6.0\Ex54.AssemblyInfoInputs.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\obj\Debug\net6.0\Ex54.AssemblyInfo.cs
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\obj\Debug\net6.0\Ex54.csproj.CoreCompileInputs.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\obj\Debug\net6.0\Ex54.dll
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\obj\Debug\net6.0\refint\Ex54.dll
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\obj\Debug\net6.0\Ex54.pdb
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\obj\Debug\net6.0\Ex54.genruntimeconfig.cache
+C:\Users\олег\Desktop\Учеба IT\git\TestRepo13072022\HomeWork01Quarter\HomeWork08\Ex54\obj\Debug\net6.0\ref\Ex54.dll
