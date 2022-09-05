@@ -32,14 +32,14 @@ for (int i = 0; i < array.GetLength(0); i++)
     age[i] = summ;
     summ = 0; 
 }
-/* for (int k = 0; k < array.GetLength(0); k++)
+ for (int k = 0; k < array.GetLength(0); k++)
 {
     //Console.WriteLine($"найдем сумму массива age : {k}");
     summ = age[k] + summ;
     //Console.WriteLine($"цикл : {k}");
     
 }
-Console.WriteLine($"Общая сумма: {summ}"); */
+Console.WriteLine($"Общая сумма: {summ}"); 
 
 
  int min = age.Min ();
