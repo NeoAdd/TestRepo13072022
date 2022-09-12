@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork03\\Ex03\\Ex03.csproj": {}
+    "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork03\\Ex03\\Ex03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork03\\Ex03\\Ex03.csproj": {
+    "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork03\\Ex03\\Ex03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork03\\Ex03\\Ex03.csproj",
+        "projectUniqueName": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork03\\Ex03\\Ex03.csproj",
         "projectName": "Ex03",
-        "projectPath": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork03\\Ex03\\Ex03.csproj",
+        "projectPath": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork03\\Ex03\\Ex03.csproj",
         "packagesPath": "C:\\Users\\олег\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork03\\Ex03\\obj\\",
+        "outputPath": "C:\\Users\\олег\\Desktop\\Учеба IT\\git\\TestRepo13072022\\HomeWork01Quarter\\HomeWork03\\Ex03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\олег\\AppData\\Roaming\\NuGet\\NuGet.Config"

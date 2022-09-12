@@ -10,7 +10,7 @@
 5 2 6 7 
 */
 
-int[,] array = new int[4, 4] { { 1, 4, 7, 2 }, { 5, 9, 2, 3 }, { 8, 4, 2, 4 }, { 5, 2, 6, 7 } };
+int[,] array = new int[4, 4] { { 9, 4, 7, 2 }, { 5, 9, 2, 3 }, { 8, 4, 2, 4 }, { 5, 2, 6, 7 } };
 //Console.WriteLine(array.GetLength(0)); // количество строк
 //Console.WriteLine(array.GetLength(1)); // длина строки
 int summ = 0;
@@ -45,9 +45,8 @@ Console.WriteLine($"Общая сумма: {summ}");
  int min = age.Min ();
  Console.WriteLine ($"Min: {min}");
 
-
-for (int i = 0; age[i] == age.Min (); i++)
+for (int i = 0; age.Min () < age[i]; i++)
 {
-    Console.WriteLine($"минимальная строка: {i+1}"); // как в примере без учета нулевой строки
+   
+    Console.WriteLine($"минимальная строка: {i}"); // как в примере без учета нулевой строки
 }
-
